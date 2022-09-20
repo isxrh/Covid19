@@ -1,0 +1,5 @@
+2022-03-25 16:02:55,190 - epsilon: 0.0000, Robust accuracy: 415/512=0.810547, attack success rate:0.189453, dist(l2n):0.000000
+2022-03-25 16:04:32,885 - epsilon: 0.0314, Robust accuracy: 287/512=0.560547, attack success rate:0.439453, dist(l2n):6.658397
+2022-03-25 16:05:57,983 - epsilon: 0.0627, Robust accuracy: 247/512=0.482422, attack success rate:0.517578, dist(l2n):13.401155
+2022-03-25 16:06:29,075 - epsilon: 0.1255, Robust accuracy: 224/512=0.437500, attack success rate:0.562500, dist(l2n):26.913759
+2022-03-25 16:06:59,231 - epsilon: 0.2510, Robust accuracy: 237/512=0.462891, attack success rate:0.537109, dist(l2n):53.882224
